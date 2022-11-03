@@ -1,4 +1,4 @@
-This depository contains differents python tools created during my internship at the IRIT. It allows to:
+This depository contains differents python tools created during my internship at the IRIT on ultrasound image segmentation with deep learning techniques. It allows to:
 - prepare a dataset for instance segmentation using CNN models: image_processing.py
 - run and represent predictions with loaded CNN models: forward.py
 - execute basic transfer learning on the UNET CNN models: transfer_learning.py
